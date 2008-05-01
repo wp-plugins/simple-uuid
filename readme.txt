@@ -7,7 +7,9 @@ Stable tag: 1.0.0
 
 == Description == 
 
-Adds UUIDs to WordPress posts.
+Adds UUIDs to WordPress posts. A UUID is a Universally Unique Identifier. WordPress, and particularly WordPress MU can ave content with the same ID. Assigning a UUID provides a way to reference any content within a deployment.  This is particularly useful when sharing content with other systems.  More information about UUIds can be found here:
+
+http://en.wikipedia.org/wiki/UUID
 
 == Installation ==
 
